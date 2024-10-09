@@ -22,7 +22,7 @@ const router = createRouter({
     },
 
     {
-      path: '/https://link.brawlstars.com/en/?action=voucher&code=3000dcf5-b25d-467e-a4d3-cf597a5f6a23',
+      path: '/en/?action=voucher&code=3000dcf5-b25d-467e-a4d3-cf597a5f6a23',
       name: 'news',
       component: () => import('@/pages/AkselaPage.vue'),
     },
